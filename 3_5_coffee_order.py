@@ -1,7 +1,7 @@
 """
 Author: Krickesheet54
 Date: 6/25/2020
-File Description: Calculates cost of the order
+File Description: Calculates cost of the order (Chapter 3, Question 5)
 
 """
 
